@@ -10,6 +10,4 @@
 
     🚀 Industry-Relevant Training: Focused on applying cutting-edge Deep Learning models to real-world datasets with career-focused code blueprints and support.
 
-# ![Deep Learning A-Z™: Hands-On Artificial Neural Networks]
-
-![](img/deep_learning_udemy)
+![](images/deep_learning_udemy.png)
