@@ -10,4 +10,4 @@
 
     🚀 Industry-Relevant Training: Focused on applying cutting-edge Deep Learning models to real-world datasets with career-focused code blueprints and support.
 
-    ![My Certificate](images/deep_learning_udemy.png)
+    ![My Certificate](./images/deep_learning_udemy.png)
